@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Haluk Bal
 - 👀 I’m interested coding and software architecture.
-- 🌱 I’m currently learning coding whit JAVA
+- 🌱 I’m currently learning coding whit C#
